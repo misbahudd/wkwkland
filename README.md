@@ -1,5 +1,6 @@
-# wkwkland
-'m a student, developer, and designer!!
+
+### i'm a student, developer, and designer!!
+
 🔭 I just launched my first course: Become A VS Code SuperHero!!
 
 🌱 I’m currently learning everything 🤣
